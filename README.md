@@ -1,4 +1,5 @@
 API para Gerenciamento de BibliotecaAPI RESTful para gerenciamento de biblioteca — CRUD completo — Node.js e Express.📁 Estrutura do ProjetoPlaintextbiblioteca-api/
+biblioteca-api/
 ├ ── src/
 │    ├ ── controllers/   # Controladores da aplicação [cite: 84]
 │    ├ ── models/        # Modelos de dados [cite: 85]
